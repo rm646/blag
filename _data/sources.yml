@@ -1,0 +1,44 @@
+- source: Vice
+  url: http://vice.com/en_uk
+
+- source: Boing Boing
+  url: http://boingboing.net
+
+- source: The Guardian
+  url: http://guardian.co.uk
+
+- source: The Independent
+  url: http://independent.co.uk
+
+- source: Reuteurs
+  url: http://uk.reuters.com
+
+- source: The Telegraph
+  url: http://telegraph.co.uk
+
+- source: International Consortium of Investigative Journalists
+  url: http://icij.org
+
+- source: Nature
+  url: http://nature.com
+
+- source: Science
+  url: http://sciencemag.org
+
+- source: Ello
+  url: http://ello.co
+
+- source: Quantified Self
+  url: http://quantifiedself.com
+
+- source: Calling Bullshit
+  url: http://callingbullshit.org
+
+- source: London Review of Books
+  url: https://www.lrb.co.uk/
+
+- source: Sinocism Newsletter
+  url: https://sinocism.com/
+
+- source: The Hustle Newsletter
+  url: https://thehustle.co/

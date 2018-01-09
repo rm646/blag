@@ -7,8 +7,8 @@ permalink:        pretty
 #relative_permalinks: true #for the 2.x to 3.x update, which changed permalinks
 
 # Setup
-title:            Blag
-tagline:          'Test site'
+title:            RudiBlog
+tagline:          '6/10'
 description:      'A blog and collection of lists.'
 url:              http://hyde.getpoole.com
 baseurl:          /
