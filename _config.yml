@@ -11,7 +11,7 @@ title:            RudiBlog
 tagline:          '6/10'
 description:      'A blog and collection of lists.'
 url:              https://rm646.github.io/blag/
-baseurl:          /
+baseurl:          /blag/
 
 author:
   name:           'Ethel Buggine'
