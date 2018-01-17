@@ -10,8 +10,8 @@ permalink:        pretty
 title:            RudiBlog
 tagline:          '6/10'
 description:      'A blog and collection of lists.'
-url:              https://rm646.github.io/blag/
-baseurl:          /blag/
+url:              https://rm646.github.io/
+baseurl:          /
 
 author:
   name:           'Ethel Buggine'
