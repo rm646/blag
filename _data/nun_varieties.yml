@@ -1,3 +1,33 @@
--type: Convent
+Stray ye not. Nuns can be as dangerous as they are colourful. Here are the varieties of nun.
+
+-type: Covent
 habitat: Convent
-notes: Classic nun, many sub-varieties.
+notes: Sadly, nun populations are declining in most biomes, and these reservations house the majority of living nuns. Tame and lean, this nun favours dark spaces, kneeling, and quiet contemplation.
+
+-type: Teaching
+habitat: Schools/nurseries
+notes: Being the main force generating new nuns, they are fierce, strong, and stern beyond what our current technology can measure. Though they most often work alone, they occasionally rut in the summer months over classroom space and student numbers.
+
+-type: Market
+habitat: Grocers and markets
+notes: The primary food gatherers in nun communities.
+
+-type: Street
+habitat: Rough towns, alleys
+notes: Rogue individuals from the other varieties. Very dangerous, these nuns often work as assassins, or as they are known in the underworld, nuns for hire.
+
+-type: Battery
+habitat: Commercial convents
+notes: Used for large scale praying operations. Plump, earnest and docile.
+
+-type: Christmas
+habitat: Christmas markets
+notes: Short lived working nuns.
+
+-type: Halloween
+habitat: Pubs and bars
+notes: Drunkenly bawdy. Not true nuns, but like other holiday nuns they are very short lived. Often wear high heels.
+
+type: Hipster
+habitat: Wholefood cafes, undiscovered coffee shops
+notes: The only tech-savvy nun. Will be found carrying the latest iPhone, Airbook, and FitBit at a minimum. Also available on Tinder.
