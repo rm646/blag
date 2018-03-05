@@ -19,6 +19,10 @@ author:
 
 paginate:         5
 
+collections:
+  lists:
+    output: true
+
 # Custom vars
 version:          2.1.0
 
