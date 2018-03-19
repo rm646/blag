@@ -11,11 +11,3 @@ title: List Index
   </div>
 {% endfor %}
 </ul>
-
-<ul>
-{% for item in site.data.nun_varieties %}
-  <li>
-    Type: {{ item.type }}. Habitat: {{item.habitat}}. Notes: {{item.notes}}
-  </li>
-{% endfor %}
-</ul>
