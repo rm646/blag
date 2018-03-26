@@ -1,6 +1,7 @@
 ---
 title: Varietes of Nun
 description: Notes on nuns
+layout: page
 ---
 
 Stray ye not. Nuns can be as dangerous as they are colourful. Here are the varieties of nun.
@@ -8,7 +9,9 @@ Stray ye not. Nuns can be as dangerous as they are colourful. Here are the varie
 <ul>
 {% for item in site.data.nun_varieties %}
   <li>
-    Type: {{ item.type }}. Habitat: {{item.habitat}}. Notes: {{item.notes}}
+    Type: {{ item.type }}.
+    Habitat: {{item.habitat}}.
+    Notes: {{item.notes}}
   </li>
 {% endfor %}
 </ul>

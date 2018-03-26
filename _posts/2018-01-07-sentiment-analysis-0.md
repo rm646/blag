@@ -83,13 +83,13 @@ The tool does consider many words such as 'toil', 'kill', and 'slaughter' neutra
 
 But perhaps the flaws could be smoothed over with enough words, we thought. We wondered whether the sentiment measured by this 'polarity' during a story would make sense, so we decided to apply the analysis to entire books and see whether the sentiment correlated with the plot. First, we just plotted the sentiment throughout the story for 'A Study in Scarlet' by Arthur Conan Doyle (which we got via project Gutenberg).
 
-![alt text](http://127.0.0.1:4000/public/d180106_scarlet_sentiment.jpg)
+![alt text]({{ site.baseurl }}/public/d180106_scarlet_sentiment.jpg)
 
 There are many (39%) sentences which have polarity 0, and without knowing the plot that well, it's difficult to see whether the polarity graph makes sense. The large dip near index 1500 is the start of part II chapter III 'John Ferrier talks with the prophet'. The beginning of the chapter speaks of torture and injustice as part of religious oppression, so that makes sense, but overall we haven't had any major insights yet.
 
 Another approach we tried was to compare the distribution of positive and negative sentences in three books: 'The Brothers Karamazov' by Dostoyevsky, 'Pride and Prejudice' by Austen, and 'A Study in Scarlet'. This is a little more interesting, but not revolutionary. I've removed the sentences with 0 polarity to make the trends visible. The other books also have large proportions of polarity-neutral sentences (30% for Pride, 45% for Karamazov).
 
-![alt text](http://127.0.0.1:4000/public/d180106_histogram.jpg)
+![alt text]({{ site.baseurl }}/public/d180106_histogram.jpg)
 
 Some points of note: Dostoyevsky has twice the number of the strongest negative words, Austen is biased towards slightly happy and Doyle is biased towards slightly negative.
 
