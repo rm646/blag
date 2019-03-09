@@ -8,8 +8,8 @@ A very wide-ranging short about totalitarian systems with Chris Hedges, film-mak
 <div class="embed-container">
   <iframe
     src="https://player.vimeo.com/video/293802639"
-    width="500"
-    height="281"
+    width="700"
+    height="500"
     frameborder="0"
     webkitallowfullscreen
     mozallowfullscreen
