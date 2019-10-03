@@ -13,4 +13,3 @@ Short reviews on books I have read.
     {{ item.review }}
     <hr>
 {% endfor %}
-</ul>
