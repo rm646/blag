@@ -7,12 +7,10 @@ title: Book reviews
 
 Short reviews on books I have read.
 
-<ul>
+
 {% for item in site.data.book_reviews %}
-  <li>
+<hr/>
     <strong>{{ item.title }}</strong> ({{ item.author }}, {{item.publisher}}, ISBN:{{item.ISBN}})
     {{ item.review }}
-    
-  </li>
+<hr/>
 {% endfor %}
-</ul>
